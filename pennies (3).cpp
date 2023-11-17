@@ -1,7 +1,5 @@
 /* Name: Nathan Lindblade
 Date: February 12, 2023
-Assignment: Homework #3
-Due Date: February 15, 2023
 About this project: Calculates how much money a person would have if their 
 pennies doubled daily
 Assumptions: Assumes the number of days will be entered as an integer
